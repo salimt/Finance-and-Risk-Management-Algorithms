@@ -7,7 +7,7 @@ _notes and practical hands-on applications for risk management through computati
 ## REPOS
 ____________
 
-### [AMZN, GOOG and TSLA Stock Price Analysis with SparkSQL](./finance-and-risk-management/tree/master/stock-price-analysis-with-spark)
+### [AMZN, GOOG and TSLA Stock Price Analysis with SparkSQL](./stock-price-analysis-with-spark)
 ____________
 
 ### [Portfolio Construction and Analysis with Python](./portfolio-construction-and-analysis-with-python)
