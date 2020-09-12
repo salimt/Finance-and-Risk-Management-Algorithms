@@ -30,12 +30,4 @@ ____________
   
 ____________
 
-### Machine Learning for Asset Management with Python
-
-**Topics**:
-  1. Fundamentals of machine learning 
-  2. Machine Learning techniques for robust estimation of factor models
-  3. Machine Learning techniques for efficient portfolio diversification 
-  4. Machine Learning techniques for regime analysis 
-  5. Identifying recession, crash regimes and feature selection 
-
+### [Implementing Graph Theory with NetworkX and Python](./implementing-graph-theory-with-NetworkX-and-Python)
