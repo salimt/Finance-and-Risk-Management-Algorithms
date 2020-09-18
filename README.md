@@ -7,10 +7,10 @@ _notes and practical hands-on applications for risk management through computati
 ## REPOS
 ____________
 
-### [AMZN, GOOG and TSLA Stock Price Analysis with SparkSQL](./stock-price-analysis-with-spark)
+### [AMZN, GOOG and TSLA Stock Price Analysis with SparkSQL](https://github.com/salimt/finance-and-risk-management/tree/master/stock-price-analysis-with-spark)
 ____________
 
-### [Portfolio Construction and Analysis with Python](./portfolio-construction-and-analysis-with-python)
+### [Portfolio Construction and Analysis with Python](https://github.com/salimt/finance-and-risk-management/tree/master/portfolio-construction-and-analysis-with-python)
 
 **Topics**:
   1. Returns and Value at Risk
@@ -20,7 +20,7 @@ ____________
   
 ____________
 
-### [Advanced Portfolio Construction and Analysis with Python](./advanced-portfolio-construction-and-analysis-with-python)
+### [Advanced Portfolio Construction and Analysis with Python](https://github.com/salimt/finance-and-risk-management/tree/master/advanced-portfolio-construction-and-analysis-with-python)
 
 **Topics**:
   1. Style & Factors
@@ -30,4 +30,4 @@ ____________
   
 ____________
 
-### [Implementing Graph Theory with NetworkX and Python](./implementing-graph-theory-with-NetworkX-and-Python)
+### [Implementing Graph Theory with NetworkX and Python](https://github.com/salimt/finance-and-risk-management/tree/master/implementing-graph-theory-with-NetworkX-and-Python)
